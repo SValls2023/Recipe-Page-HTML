@@ -1,0 +1,40 @@
+body {
+    font-family: 'Optima', sans-serif;
+    font-stretch: expanded;
+    font-weight: 500;
+    padding: 20px;
+    background-color: #557ad9cc;
+}
+
+.title {
+    margin: 0.5em auto;
+    text-align: center;
+    color: azure;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.information {
+    margin: auto;
+    background-color: #7794E0;
+    color: white;
+    padding: 20px;
+    max-width: 700px;
+    min-width: 500px;
+    text-align: center;
+}
+
+.header {
+    margin: 0.5em auto;
+    text-align: center;
+    color: aliceblue;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}
